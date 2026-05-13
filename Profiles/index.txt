@@ -1,194 +1,193 @@
-Mapped External Keyboard.icp
-18WheelsOfSteel.icp
-4fingerGP.icp
-Adventure 2.icp
-Ajay common V1.2
-Alan Wake.icp
-Alien Versus Predator.icp
-All Games RTS.icp
-Alpha Protocol.icp
-Alt Gamepad
-Amnesia The Bunker.icp
-ASSASSINS CREED.icp
-Baldi's Basics V3.icp
-Ben 10 Controls.icp
-Besiege.icp
-Bioshock.icp
-Black Mesa.icp
-Bomberman.icp
-brickrigs.icp
-Call of Juarez Gunslinger.icp
-Claw RTS.icp
+﻿外接键盘映射.icp
+钢铁十八轮.icp
+冒险2.icp
+Ajay通用版V1.2.icp
+心灵杀手.icp
+异形大战铁血战士.icp
+通用RTS.icp
+阿尔法协议.icp
+备用手柄.icp
+失忆症地堡.icp
+刺客信条.icp
+巴迪的基础教学V3.icp
+少年骇客10控制方案.icp
+围攻.icp
+生化奇兵.icp
+黑山.icp
+炸弹人.icp
+BrickRigs.icp
+狂野西部枪手.icp
+ClawRTS.icp
 CLOS2.icp
-Cod-World at War-1.icp
-Cod-World at War.icp
-CoffinofAndyandLeyley.icp
-Color4fingerUniversal.icp
-controls u2.icp
-CS2D Button.icp
-cuphead.icp
-Cyber Shadow.icp
-Dark Souls 2.icp
+使命召唤战火世界1.icp
+使命召唤战火世界.icp
+安迪和莱莉的棺材.icp
+四指通用彩色版.icp
+控制方案U2.icp
+CS2D按钮版.icp
+茶杯头.icp
+赛博暗影.icp
+黑暗之魂2.icp
 DC.icp
-DE MENU.icp
-Deadcell.icp
-dead_space.icp
-Dead Island Riptide.icp
-Deus Ex Human Revolution.icp
-Divinity 2 DC.icp
-DMC4.icp
-DOW2.icp
-DragonballDBZ.icp
-Dragons Age.icp
-dragon a inquisition.icp
-Drakensang.icp
+DE菜单.icp
+死亡细胞.icp
+死亡空间.icp
+死亡岛激流.icp
+杀出重围人类革命.icp
+神界2DC.icp
+鬼泣4.icp
+战锤40K战争黎明2.icp
+龙珠DBZ.icp
+龙腾世纪.icp
+龙腾世纪审判.icp
+黑暗之眼龙歌.icp
 Dreadcell.icp
-Driver Parallel Lines.icp
-DyingLightAnolog.icp
-Fallout 1+2.icp
-Fallout 3.icp
-Far Cry 3.icp
-Far Cry 4.icp
-Far Cry.icp
-FasterThanLight.icp
-FF12.icp
-Final Fantasy 8.icp
-Final Fantasy Type-0.icp
-Flatout Games.icp
-Flatout Ultimate Carnage.icp
-FPS AJAY ALL KEYS.icp
+极道车魂平行线.icp
+消逝的光芒模拟摇杆.icp
+辐射1+2.icp
+辐射3.icp
+孤岛惊魂3.icp
+孤岛惊魂4.icp
+孤岛惊魂.icp
+超越光速.icp
+最终幻想12.icp
+最终幻想8.icp
+最终幻想零式.icp
+横冲直撞系列.icp
+横冲直撞终极杀戮.icp
+FPSAjay全键版.icp
 FPS.icp
-Front Mission Evolved-1.icp
-Front Mission Evolved.icp
-GAMING.icp
-GH-alt-rts.icp
-GH-alt2-rts.icp
-GH-dual-anolog.icp
-GH-rts.icp
-Gothic 1.icp
-Gravity Circuit.icp
-GTA 3 Classic.icp
-GTA 5.icp
-GTA San Andreas.icp
-gta Trilogy.icp
-Gta vice city.icp
-GTA-SA.icp
-Gta-V.icp
+前线任务进化1.icp
+前线任务进化.icp
+游戏通用.icp
+GH备用RTS.icp
+GH备用2RTS.icp
+GH双摇杆.icp
+GHRTS.icp
+哥特王朝1.icp
+重力回路.icp
+GTA3经典版.icp
+GTA5.icp
+GTA圣安地列斯.icp
+GTA三部曲.icp
+GTA罪恶都市.icp
+GTA圣安地列斯SA.icp
+GTAV.icp
 GTASA.icp
-gzdoom V2.icp
-gzdoom.icp
-Hades.icp
-Half-Life 2.icp
-halo1.icp
-halo2.icp
-HellCopter.icp
-Hitman 2.icp
-hitman Absolution.icp
-HxHNENxIMPACT .icp
-Hyper DBZ.icp
-IGI 2.icp
+GZDoomV2.icp
+GZDoom.icp
+哈迪斯.icp
+半条命2.icp
+光环1.icp
+光环2.icp
+地狱直升机.icp
+杀手2.icp
+杀手赦免.icp
+HxHNENxIMPACT.icp
+HyperDBZ.icp
+IGI2.icp
 IGI.icp
-Infernal.icp
-input.icp
-JoJo ASBR v2.icp
-JoJo ASBR.icp
-Journey Realm DD.icp
-Just cause 2.icp
-Just cuz..icp
-Keyboard.icp
-La Mulana.icp
-Lego Games.icp
-Lego star wars TCS.icp
-M&B.icp
-Madden NFL (Xbox).icp
-Marvel Ultimate Alliance.icp
-Mass Effect 1 v2.icp
-Mass Effect 2-1.icp
-Mass Effect 2.icp
+炼狱.icp
+输入方案.icp
+JOJO群星之战Rv2.icp
+JOJO群星之战R.icp
+旅程领域DD.icp
+正当防卫2.icp
+正当防卫.icp
+键盘.icp
+拉穆拉纳.icp
+乐高游戏.icp
+乐高星球大战TCS.icp
+骑马与砍杀.icp
+MaddenNFLXbox.icp
+漫威终极联盟.icp
+质量效应1v2.icp
+质量效应21.icp
+质量效应2.icp
 MC2.icp
-Metro 2033.icp
+地铁2033.icp
 Mewgenics.icp
-MGRR.icp
-MGSV Phantom Pain.icp
-Mini_Ninja.icp
-Miside.icp
-mostly.icp
-Mount and Blade Warband.icp
-mugen.icp
-NFS Carbon.icp
-NFS MW Final Pro V5.icp
-NFS MW FINAL V4.icp
-NFSHP (ready2play).icp
-Oblivion Lost Remake 2.5.icp
-Oblivion.icp
-Oblivion_XInput.icp
-Outlast 1.icp
-PES1.icp
-PES2.icp
-Playstation Controller.icp
-pop2.icp
-Postal 2.icp
-Prey.icp
-Prince of Persia Forgotten Sands (Phone).icp
-Project Zomboid (1).icp
-Psychonauts.icp
-QrTa_FPS.icp
-Quake 4.icp
-QWERTY-V3.icp
-Racing Simulation.icp
-Racing.icp
-Racing_alt.icp
-RAGE.icp
-Rayman 3.icp
-Re7.icp
-Resident Evil 6.icp
-Risen 2.icp
-RTS-Gamepad.icp
-Shovel Knight.icp
-Silksong.icp
-Singularity.icp
-SkullGirls2nd.icp
-Skyrim.icp
-Sleeping-Dogs.icp
-Sonic Generations.icp
-Sonic Mania.icp
-Spiderman Shattered Dimensions.icp
-Stalker CS.icp
-STALKER SOC.icp
-Stalker Trilogy Touch.icp
-stalker-1.icp
-stalker.icp
-Star Wars Jedi Knight 2.icp
-StarCraft-1.icp
-StarCraft.icp
-SteamWorld Dig 2.icp
-Sunset Overdrive.icp
-SYSTEMSHOCK.icp
-Tekken.icp
-The Alliance Alive.icp
-The Forest.icp
-The Last of Us.icp
-The Saboteur.icp
-TMNT2003.icp
-ToEEcontroller.icp
-Tomb Raider Anniversary.icp
-Tomb_raider.icp
-TouhouEOSD.icp
-Turok 2.icp
-Turok Evolution.icp
-Ultima Underworld.icp
-Ultra Street Fighter IV.icp
-Undertale.icp
+合金装备崛起复仇.icp
+合金装备5幻痛.icp
+迷你忍者.icp
+米塔.icp
+常用方案.icp
+骑马与砍杀战团.icp
+MUGEN.icp
+极品飞车卡本峡谷.icp
+极品飞车最高通缉FinalProV5.icp
+极品飞车最高通缉FINALV4.icp
+极品飞车热力追踪ready2play.icp
+遗忘迷失重制版2.5.icp
+上古卷轴4湮灭.icp
+上古卷轴4湮灭XInput.icp
+逃生1.icp
+实况足球1.icp
+实况足球2.icp
+PlayStation手柄.icp
+波斯王子2.icp
+喋血街头2.icp
+掠食.icp
+波斯王子遗忘之沙手机版.icp
+僵尸毁灭工程1.icp
+脑航员.icp
+QrTaFPS.icp
+雷神之锤4.icp
+QWERTYV3.icp
+赛车模拟.icp
+赛车.icp
+赛车备用版.icp
+狂怒.icp
+雷曼3.icp
+生化危机7.icp
+生化危机6.icp
+崛起2.icp
+RTS手柄版.icp
+铲子骑士.icp
+丝之歌.icp
+奇点.icp
+骷髅女孩2nd.icp
+上古卷轴5天际.icp
+热血无赖.icp
+索尼克世代.icp
+索尼克狂欢.icp
+蜘蛛侠破碎维度.icp
+潜行者晴空.icp
+潜行者切尔诺贝利的阴影.icp
+潜行者三部曲触控版.icp
+潜行者1.icp
+潜行者.icp
+星球大战绝地武士2.icp
+星际争霸1.icp
+星际争霸.icp
+蒸汽世界挖掘2.icp
+日落过载.icp
+网络奇兵.icp
+铁拳.icp
+生存同盟.icp
+森林.icp
+最后生还者.icp
+破坏者.icp
+忍者神龟2003.icp
+元素邪神殿手柄版.icp
+古墓丽影十周年纪念版.icp
+古墓丽影.icp
+东方红魔乡.icp
+图洛克2.icp
+图洛克进化.icp
+创世纪地下世界.icp
+终极街头霸王4.icp
+传说之下.icp
 Unepic.icp
-Universal Numlock.icp
-Universal profile.icp
+通用数字锁.icp
+通用配置.icp
 Unleashed.icp
-virtual controller ik.icp
-Virtual Gamepad alt.icp
-Virtual Keyboard.icp
-Wolfenstein.icp
-Worms Armageddon.icp
-Xanadu Next.icp
-Xbox Controller.icp
+虚拟控制器IK.icp
+虚拟手柄备用版.icp
+虚拟键盘.icp
+德军总部.icp
+百战天虫末日浩劫.icp
+XanaduNext.icp
+Xbox手柄.icp
 XHYN_C02.icp
-Ys Origin.icp
+伊苏起源.icp
