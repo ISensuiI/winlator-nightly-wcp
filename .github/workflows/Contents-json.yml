@@ -31,8 +31,8 @@ jobs:
           nightly_targets = [
               ("DXVK", "dxvk-nightly-"),
               ("DXVK", "dxvk-arm64ec-nightly-"),
-              ("VKD3D", "vk3dk-nightly-"),
-              ("VKD3D", "vk3dk-arm64ec-nightly-"),
+              ("VKD3D", "vkd3d-nightly-"),
+              ("VKD3D", "vkd3d-arm64ec-nightly-"),
               ("FEXCore", "fex-nightly-"),
               ("Box64", "box64-nightly-"),
               ("Box64", "bionic-box64-nightly-"),
@@ -42,8 +42,8 @@ jobs:
           stable_targets = [
               ("DXVK", "Stable-Dxvk"),
               ("DXVK", "Stable-Arm64ec-Dxvk"),
-              ("VKD3D", "Stable-Vk3dk"),
-              ("VKD3D", "Stable-Arm64ec-Vk3dk"),
+              ("VKD3D", "Stable-VKD3D"),
+              ("VKD3D", "Stable-arm64ec-VKD3D"),
               ("FEXCore", "Stable-FEX"),
               ("Box64", "Stable-Box64"),
               ("WOWBox64", "Stable-wowbox64"),
@@ -74,6 +74,8 @@ jobs:
                               asset_name = asset.get("name", "")
                               if asset_name.endswith(".wcp") or asset_name.endswith(".wcp.xz"):
                                   clean_name = asset_name.replace(".wcp.xz", "").replace(".wcp", "")
+                                  if w_type == "VKD3D":
+                                      clean_name = clean_name.replace("-proton", "").replace("-Proton", "")
                                   pack_data.append({
                                       "type": w_type,
                                       "verName": clean_name,
@@ -92,6 +94,8 @@ jobs:
                           asset_name = asset.get("name", "")
                           if asset_name.endswith(".wcp") or asset_name.endswith(".wcp.xz"):
                               clean_name = asset_name.replace(".wcp.xz", "").replace(".wcp", "")
+                              if w_type == "VKD3D":
+                                  clean_name = clean_name.replace("-proton", "").replace("-Proton", "")
                               pack_data.append({
                                   "type": w_type,
                                   "verName": clean_name,
@@ -108,7 +112,7 @@ jobs:
 
           pack_data = sorted(pack_data, key=version_sort_key)
 
-          with open("content.json", "w") as f:
+          with open("contents.json", "w") as f:
               json.dump(pack_data, f, indent=2)
           '
 
@@ -117,5 +121,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add contents.json
-          git commit -m "Auto-update WCP Hub content.json [skip ci]" || echo "No changes to commit"
+          git commit -m "Auto-update WCP Hub contents.json [skip ci]" || echo "No changes to commit"
           git push
