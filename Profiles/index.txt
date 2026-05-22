@@ -176,6 +176,7 @@ XHYN_C02.icp
 遗忘迷失重制版2.5.icp
 喋血街头2.icp
 崛起2.icp
+只狼.icp
 战锤40K战争黎明2.icp
 最后生还者.icp
 最终幻想12.icp
